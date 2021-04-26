@@ -20,3 +20,4 @@
 
 Always -> git push
 
+To ignore any of folder  ->  create .gitignore file and put file/folder name in it
