@@ -11,7 +11,8 @@
 * git add . ->  add all files/folder for tracking
 * git commit -m "message"  -> create a savepoint / breakpoint
 * git log   ->  to list all the commits
-
+* git checkout commited  ->  you will go to that version
+* git checkout main  ->  to react latest commit
 
 ## create a repo on github
 * git remote add origin Your  **Repo Name**
