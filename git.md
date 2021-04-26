@@ -18,6 +18,9 @@
 * git branch -M main
 * git push -u origin main
 
-Always -> git push
+## Always 
+* git add .
+* git commit -m "message"
+* git push
 
 To ignore any of folder  ->  create .gitignore file and put file/folder name in it
